@@ -1,3 +1,14 @@
+# 🚀 Akeshi Quarta
+
+**AI-Assisted Developer | Roboticist | Software Enthusiast**
+
+Passionate about **AI**, **Machine Learning**, **Robotics**, **Software Testing**, and **Gaming**. I leverage AI collaboration to build production-ready code 5-10x faster while maintaining quality and innovation.
+
+🔗 **[URDF-Forge Live Demo](https://akeshi02.github.io/URDF-Forge/)** - Try it now!
+
+---
+
+## 🤖 My Development Philosophy
 
 I don't believe in wasting time on boilerplate code or syntax documentation. Instead, I:
 
@@ -5,10 +16,6 @@ I don't believe in wasting time on boilerplate code or syntax documentation. Ins
 2. **Collaborate with AI** - "Claude, here's what I need..."
 3. **Iterate Intelligently** - Review, refine, improve
 4. **Deploy with Confidence** - The code is tested, optimized, and production-ready
-
----
-
-## 🤖 How I Code
 
 ### My Workflow 🔄
 
@@ -66,20 +73,12 @@ I don't believe in wasting time on boilerplate code or syntax documentation. Ins
 
 ---
 
-## 🎯 Featured Projects (AI-Assisted)
+## 🎯 Featured Projects
 
-### 🌟 [URDF-Forge](https://github.com/akeshi02/URDF-Forge)
+### 🌟 [URDF-Forge](https://github.com/akeshi02/URDF-Forge) | [🔗 Live Demo](https://akeshi02.github.io/URDF-Forge/)
 > **Browser-Based Robot Design Studio** 🤖✨
 
-<div align="left">
-
 **Description:** A lightweight, browser-based visual editor for designing 3D robot models and exporting them to URDF format for Ignition Gazebo Fortress.
-
-**AI-Assisted Highlights:**
-- 🤖 **Claude** designed the 3D visualization architecture
-- 💬 **ChatGPT** helped with the interactive UI components
-- 🎨 **Gemini** provided creative approaches for the URDF export logic
-- ⚡ Developed in a fraction of traditional timeline through AI collaboration
 
 **Key Features:**
 - 🎨 Real-time 3D visualization and editing
@@ -89,26 +88,15 @@ I don't believe in wasting time on boilerplate code or syntax documentation. Ins
 - 📡 Sensor configuration management
 - ⚡ Lightning-fast rendering
 
-**Tech Stack:** HTML, CSS, JavaScript, 3D Graphics
-
-**Status:** ⭐ Recently launched (2 stars) - *AI-accelerated development*
-
-</div>
+**Tech Stack:** HTML, CSS, JavaScript, 3D Graphics  
+**Status:** ⭐ Recently launched (2 stars)
 
 ---
 
 ### 🤖 [2-Degree Arm with Camera Sensor](https://github.com/akeshi02/2-degree-arm-with-camera-sensor)
 > **Robotic Arm Control & Vision Integration** 🦾📷
 
-<div align="left">
-
 **Description:** Advanced robotics project with 2-DOF arm control and integrated camera sensor capabilities for vision-based manipulation.
-
-**AI-Assisted Process:**
-- 🧠 **Claude** structured the kinematics algorithms and control systems
-- 🔧 **ChatGPT** assisted with sensor data processing pipelines
-- 🎯 **Gemini** explored alternative control approaches
-- Rapid iteration through AI-guided debugging and optimization
 
 **Key Features:**
 - 🦾 2-DOF arm kinematics and control
@@ -117,23 +105,15 @@ I don't believe in wasting time on boilerplate code or syntax documentation. Ins
 - 📊 Sensor data analysis and visualization
 - 🔄 Closed-loop control systems
 
+**Tech Stack:** Python, ROS, OpenCV  
 **Use Cases:** Robotic manipulation, computer vision, control systems research
-
-</div>
 
 ---
 
 ### 🎮 [Game Hub](https://github.com/akeshi02/game-hub)
 > **Interactive Game Discovery Platform** 🎯✨
 
-<div align="left">
-
 **Description:** Modern game discovery platform with smooth animations and responsive design.
-
-**AI-Assisted Development:**
-- 🎨 **Gemini** provided creative UI/UX designs and patterns
-- ✨ **ChatGPT** accelerated component development
-- 🔧 **Claude** ensured code quality and performance
 
 **Key Features:**
 - 🎮 Game discovery and browsing
@@ -144,23 +124,12 @@ I don't believe in wasting time on boilerplate code or syntax documentation. Ins
 
 **Tech Stack:** HTML, CSS, JavaScript
 
-**Development Speedup:** 3x faster with AI assistance
-
-</div>
-
 ---
 
 ### ⏱️ [Pomodoro Timer](https://github.com/akeshi02/pomodoro)
 > **Productivity Enhancement Tool** 🎯⏲️
 
-<div align="left">
-
 **Description:** Sleek Pomodoro timer application for productivity management with customizable sessions and tracking.
-
-**AI-Assisted Creation:**
-- 🤖 **Claude** designed the state management logic
-- ⏲️ **ChatGPT** implemented the timer functionality
-- 💾 **Gemini** optimized local storage implementation
 
 **Key Features:**
 - ⏲️ Customizable work/break intervals
@@ -169,25 +138,15 @@ I don't believe in wasting time on boilerplate code or syntax documentation. Ins
 - 🎨 Beautiful, intuitive UI
 - 💾 Local storage for history
 
-**Tech Stack:** HTML, CSS, JavaScript
-
+**Tech Stack:** HTML, CSS, JavaScript  
 **Status:** ⭐ 1 star
-
-</div>
 
 ---
 
 ### 📚 [Webnovel Vault](https://github.com/akeshi02/webnovel-vault)
 > **Web Novel Collection Management System** 📖✨
 
-<div align="left">
-
 **Description:** Comprehensive application for managing and organizing web novel collections with progress tracking.
-
-**AI-Assisted Features:**
-- 🗄️ **Claude** architected the data structure and storage
-- 🔍 **ChatGPT** built the search and filter functionality
-- 📱 **Gemini** optimized the responsive design
 
 **Key Features:**
 - 📖 Novel library management
@@ -198,36 +157,21 @@ I don't believe in wasting time on boilerplate code or syntax documentation. Ins
 
 **Tech Stack:** HTML, CSS, JavaScript
 
-</div>
-
 ---
 
 ### 🌐 [GBC Web](https://github.com/akeshi02/gbcweb)
 > **Comprehensive Web Solution** 🚀
 
-<div align="left">
-
 **Description:** Full-featured web project with comprehensive functionality built with modern web standards.
 
-**AI-Powered Development:** Rapid prototyping and deployment through AI collaboration
-
 **Tech Stack:** HTML, CSS, JavaScript
-
-</div>
 
 ---
 
 ### 🧠 [Logistic Regression in Python](https://github.com/akeshi02/Logistic_Regression_in_python)
 > **Machine Learning Implementation** 📊🤖
 
-<div align="left">
-
 **Description:** Educational implementation of logistic regression with comprehensive examples and visualizations.
-
-**AI-Assisted ML Development:**
-- 🧮 **Claude** explained complex ML concepts and best practices
-- 📊 **ChatGPT** provided algorithm implementation variations
-- 📈 **Gemini** suggested data visualization improvements
 
 **Key Features:**
 - 📊 Complete logistic regression implementation
@@ -236,31 +180,22 @@ I don't believe in wasting time on boilerplate code or syntax documentation. Ins
 - 🧮 Mathematical explanations
 - 💾 Dataset examples
 
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn
-
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn  
 **Status:** ⭐ 1 star
-
-</div>
 
 ---
 
 ### 🐢 [My Turtlesim Package](https://github.com/akeshi02/my_turtlesim_pkg)
 > **ROS-Based Turtle Simulation** 🐢
 
-<div align="left">
-
 **Description:** ROS package for turtle simulation, perfect for learning robotics concepts.
-
-**AI-Assisted ROS Development:** Rapid prototyping with Claude, ChatGPT guidance
 
 **Tech Stack:** Python, ROS
 
-</div>
-
 ---
 
-### 🌍 Additional Web Projects
-- **[Website1](https://github.com/akeshi02/website1)** ⭐ 1 star - *AI-enhanced web project*
+### 🌍 Additional Projects
+- **[Website1](https://github.com/akeshi02/website1)** ⭐ 1 star
 - **[Git Day 2](https://github.com/akeshi02/git_day2)** - Git learning and practice
 
 ---
@@ -314,6 +249,28 @@ I don't believe in wasting time on boilerplate code or syntax documentation. Ins
       </ul>
     </td>
     <td align="center" width="50%">
+      <h3>🧪 Software Testing & QA</h3>
+      <ul>
+        <li>Test Automation</li>
+        <li>Unit Testing</li>
+        <li>Integration Testing</li>
+        <li>Performance Testing</li>
+        <li>Bug Tracking & Analysis</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎮 Gaming & Interactive Dev</h3>
+      <ul>
+        <li>Game Design Concepts</li>
+        <li>Interactive UI/UX</li>
+        <li>Real-time Rendering</li>
+        <li>Animation & Transitions</li>
+        <li>User Engagement</li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
       <h3>🤖 AI-Assisted Development</h3>
       <ul>
         <li>Claude Integration</li>
@@ -328,10 +285,9 @@ I don't believe in wasting time on boilerplate code or syntax documentation. Ins
 
 ---
 
-## 🌱 My AI-Assisted Development Journey
+## 🌱 Why AI-Assisted Development?
 
-### Why I Became an AI-Assisted Vibe Coder
-
+### The Problem with Traditional Development
 Traditional development is slow, repetitive, and often involves fighting with syntax errors and searching Stack Overflow. I realized that **AI models like Claude, ChatGPT, and Gemini can handle the mechanical aspects of coding**, allowing me to focus on what matters:
 
 - 🧠 **Creative Problem-Solving**
@@ -345,19 +301,16 @@ Traditional development is slow, repetitive, and often involves fighting with sy
 - Complex architecture and system design
 - Detailed explanations and best practices
 - High-quality, production-ready code
-- "Claude, I need robust, well-documented code for..."
 
 **ChatGPT (OpenAI)** - *The Speed Demon*
 - Rapid prototyping and iteration
 - Quick solutions and variations
 - Diverse problem-solving approaches
-- "ChatGPT, let's rapidly prototype this component..."
 
 **Gemini (Google)** - *The Creative Explorer*
 - Alternative perspectives and approaches
 - Creative UI/UX suggestions
 - Exploration and experimentation
-- "Gemini, what are different ways to solve this?"
 
 ---
 
@@ -385,9 +338,7 @@ Traditional development is slow, repetitive, and often involves fighting with sy
 
 ---
 
-## 💡 Project Statistics
-
-<div align="center">
+## 📈 Project Statistics
 
 | Metric | Value | Notes |
 |--------|-------|-------|
@@ -395,5 +346,15 @@ Traditional development is slow, repetitive, and often involves fighting with sy
 | **Robotics Projects** | 3 | URDF-Forge, 2-DOF Arm, Turtlesim |
 | **Web Applications** | 5 | Game Hub, Pomodoro, Webnovel Vault, GBC Web, Website1 |
 | **ML/Data Science** | 1 | Logistic Regression in Python |
-| **AI-Assisted Projects** | 10 | 100% - All built with AI collaboration
-
+| **Gaming Projects** | 1 | Game Hub |
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 Open to collaborations on robotics, ML, and web development projects
+- 🚀 Always exploring new AI-assisted development techniques
+- 🎮 Game development enthusiast
+- 📧 Feel free to reach out for discussions or projects
+
+**Happy Coding! 🚀**
